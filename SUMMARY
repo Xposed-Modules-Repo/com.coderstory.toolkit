@@ -1,2 +1,2 @@
-A Module For Xposed Framework
-Disable signature verification For Android
+Disable signature verification
+版本降级,签名不一致,签名错误的apk都能安装
