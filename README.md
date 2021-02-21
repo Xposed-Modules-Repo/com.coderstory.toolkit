@@ -2,6 +2,9 @@
 
 ```
 Disable signature verification For Android
+禁用安装apk时候执行的签名校验
+The current version support android 10-11
+当前版本只支持安卓10-11
 ```
 
 
