@@ -1,5 +1,12 @@
-[{
-	"type": "add",
-	"name": "coderstory",
-	"link": "https://github.com/coderstory"
-}]
+[
+    {
+        "type": "add",
+        "name": "CoderStory",
+        "link": "https://github.com/coderstory"
+    },
+    {
+        "type": "add",
+        "name": "LSPosed",
+        "link": "https://github.com/LSPosed"
+    }
+]
